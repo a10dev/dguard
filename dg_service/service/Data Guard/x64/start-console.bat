@@ -1,0 +1,1 @@
+DgiService.exe -console_test
